@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "revision": "2026-07-14.1",
+  "localizedNames": [
+    {
+      "resourceType": "MOVE",
+      "resourceId": 497,
+      "en": "Plasma Fists",
+      "es-419": "Pu\u00f1os Plasma",
+      "es-ES": "Pu\u00f1os Plasma",
+      "aliases": ["Plasma Fists", "Pu\u00f1os Plasma"]
+    },
+    {
+      "resourceType": "MOVE",
+      "resourceId": 590,
+      "en": "Glaive Rush",
+      "es-419": "Asalto Espad\u00f3n",
+      "es-ES": "Asalto Espad\u00f3n",
+      "aliases": ["Glaive Rush", "Asalto Espad\u00f3n"]
+    }
+  ],
+  "assetFormAliases": {}
+}
